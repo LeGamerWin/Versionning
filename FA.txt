@@ -1,3 +1,7 @@
 Bonjour  Samir
+<<<<<<< HEAD
 
-Conflit
+Conflit Ioahn
+=======
+Au revoir Samir
+>>>>>>> 37402cad58dad7b0a43e8217e1a26bd9bb5898b0
